@@ -66,7 +66,7 @@ The observation made in this step can be summarised below:
 
 The model accuracy is 0.7708491816818449.
 
-###### Local Installation:
+## Local Installation:
 
 Download the zip folder 
 (Link: https://github.com/AnushaNathRoy/Youtube-Study-Buddy/tree/main/Youtube-Study-Buddy%20App)
