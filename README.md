@@ -68,6 +68,4 @@ The model accuracy is 0.7708491816818449.
 
 ## Local Installation:
 
-Download the zip folder 
-(Link: https://github.com/AnushaNathRoy/Youtube-Study-Buddy/tree/main/Youtube-Study-Buddy%20App)
-Run Jupyter Notebook on this directory.
+Download the databases and put them in the same directory as this project and Run Jupyter Notebook on this directory.
