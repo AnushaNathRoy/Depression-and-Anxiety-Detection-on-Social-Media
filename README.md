@@ -51,7 +51,7 @@ Key Steps:
 - Vectorizing input to input into model
 - Model Chosen: LogisticRegression
 
-## Step 4: Testing and Analysing Model
+## Step 5: Testing and Analysing Model
 The observation made in this step can be summarised below:
 
               precision    recall  f1-score   support
