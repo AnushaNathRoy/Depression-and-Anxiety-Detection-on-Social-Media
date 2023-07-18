@@ -49,7 +49,6 @@ Data analysis of the cleaned data involved creating wordclouds. There are 3 word
 Key Steps:
 - Splitting data into train and test sets
 - Vectorizing input to input into model
-- Model Chosen: LogisticRegression
 
 ## Step 5: Testing and Analysing Model
 The observation made in this step can be summarised below:
