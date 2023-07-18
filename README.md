@@ -63,7 +63,6 @@ The observation made in this step can be summarised below:
     macro avg       0.82      0.75     0.78    322063
     weighted avg     0.77      0.77    0.77    322063
 
-The model accuracy is 0.7708491816818449.
 
 ## Local Installation:
 
